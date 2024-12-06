@@ -1,0 +1,5 @@
+# Ignorar todos los archivos que comienzan con _
+_*
+
+# No ignorar _ayuda.txt
+!_ayuda.txt
